@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
+I am a Programmer in Training at Ballad Consulting Group. 
 You can use the [editor on GitHub](https://github.com/shivangi0109/shivangi0109.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
